@@ -20,3 +20,6 @@ This project processes HTML snapshots from multiple news platforms and transform
 
 ## Project Goal
 To analyze how different news platforms report topics and how prominently they appear.
+
+## Summerise
+Building a data pipeline for news data (HTML → Database → Analysis)
