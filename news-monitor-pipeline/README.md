@@ -3,7 +3,7 @@
 ETL pipeline for analyzing multi-platform news data.
 
 ## Overview
-This project processes HTML snapshots from multiple news platforms and transforms them into structured data for analysis.
+This project processes HTML snapshots from multiple news platforms(bild, FAZ, Tagesscau, Spegel, Welt, Zeit, handelsblatt, Heute)  and transforms them into structured data for analysis.
 
 ## Features
 - Data extraction from HTML
