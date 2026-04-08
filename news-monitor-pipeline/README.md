@@ -23,3 +23,9 @@ To analyze how different news platforms report topics and how prominently they a
 
 ## Summary
 Building a data pipeline for news data (HTML → Database → Analysis)
+- ETL Prozess (Extract, Transform, Load)
+      ✅Parsing
+      ✅Extraction
+      ✅Cleaning
+
+
