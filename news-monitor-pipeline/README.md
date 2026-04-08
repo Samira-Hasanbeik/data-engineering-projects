@@ -21,11 +21,13 @@ This project processes HTML snapshots from multiple news platforms(bild, FAZ, Ta
 ## Project Goal
 To analyze how different news platforms report topics and how prominently they appear.
 
-## Summary
+### Summary
+
 Building a data pipeline for news data (HTML → Database → Analysis)
-- ETL Prozess (Extract, Transform, Load)
-      ✅Parsing
-      ✅Extraction
-      ✅Cleaning
+
+- ETL Process :
+  Parsing ✅ Extraction ✅ Cleaning ✅  
+
+- The ETL implementation can be found in the [`ETL`](./ETL) folder.
 
 
